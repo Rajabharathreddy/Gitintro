@@ -1,3 +1,5 @@
 started learning git tool in devops
 first i am learning in windows
 Adding new lines from linux
+adding new lines from linux
+
