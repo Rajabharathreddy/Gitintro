@@ -1,5 +1,6 @@
-started learning git tool in devops
-first i am learning in windows
+Started learning git tool in devops
+#windows user
+1.First i am learning in windows
 
-#Linux users
-Adding new lines from linux
+#linux user
+1.Adding new lines from linux
