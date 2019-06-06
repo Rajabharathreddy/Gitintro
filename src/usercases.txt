@@ -1,1 +1,2 @@
 started learning git tool in devops
+Adding new lines from linux
