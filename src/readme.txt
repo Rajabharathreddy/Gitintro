@@ -1,3 +1,2 @@
-hi this is into to git
-adding lines from linux
-again added new lines from linux
+hi this is intro to git
+This bulid is provided to wipro
